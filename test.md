@@ -6,6 +6,15 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+    C-->D;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
 ```mermaid
