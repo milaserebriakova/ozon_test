@@ -1,5 +1,5 @@
 # Системность мышления
-[Как вернуть товар](https://docs.ozon.ru/common/otmena-i-vozvrat-zakaza/kak-vernut-tovar/?country=RU). 
+Источник: [Как вернуть товар](https://docs.ozon.ru/common/otmena-i-vozvrat-zakaza/kak-vernut-tovar/?country=RU). 
 ## Схема взаимодействия компонентов
 
 ```mermaid
