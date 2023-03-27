@@ -9,8 +9,8 @@
 - Cart
 - Favorites
 
-## Pop-up for minimal order
-Minimal order from 500 rub
+## Pop-up for min order
+Min order from 500 rub
 
 ## Search bar at the top of the app
 Search the catalog for delivery in an hour
