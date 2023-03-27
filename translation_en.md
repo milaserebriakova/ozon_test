@@ -16,7 +16,7 @@ Minimal order from 500 rub
 Search the catalog for delivery in an hour
 
 ## Delivery
-Specify delivery adress
+Specify delivery address
 
 ## Recommendation pages
 
@@ -33,14 +33,14 @@ Specify delivery adress
 - Mushrooms & Pickles
 
 ### Dairy & Eggs
-- Dairy, butter and eggs
+- Dairy, Butter & Eggs
 - Cheese 
-- Jogurts, Сottage cheese treats and Deserts
-- Kefir, Сottage cheese and Sour cream
+- Jogurts, Сottage cheese treats & Deserts
+- Kefir, Сottage cheese & Sour cream
 - For Children
 - Milk alternatives
 
-### Meat, poultry and Fish
+### Meat, Poultry & Fish
 - Poultry
 - Meat & Steaks
 - Fish & Seafood
@@ -56,9 +56,9 @@ Specify delivery adress
 ### Grocery
 - Pasta & Grains
 - Pickles
-- Oil, souces and ketchup
+- Oil, Sauces & Ketchup
 - Breakfast
-- Sugar, salt & spices
+- Sugar, Salt & Spices
 - Baking goods
 
 ### Cakes and Pastry
@@ -67,30 +67,30 @@ Specify delivery adress
 - Our Bakery
 
 ### Sweets
-- Cholocates and candies
-- Coockies and Waffles
-- Marshmallow and Marmalade
-- Jam, honey and pastes
-- Gums and Lollypops
+- Cholocates & Candies
+- Cookies & Waffles
+- Marshmallow & Jell-o
+- Jam, Honey & Pastes
+- Gums & Lollypops
 - Sweet Presents
 
 ### Frozen
-- Ice-cream and Ice
-- Vegetables, Berries and mixes
-- Fish and Seafood
-- Pastry and Deserts
+- Ice-cream & Ice
+- Vegetables, Berries & Mixes
+- Fish & Seafood
+- Pastry & Deserts
 - Semi-finished products
 - Almost ready
 
-### Water and Beverages
+### Water & Beverages
 - Water
-- Soda and Energy drinks
+- Soda & Energy drinks
 - Juices
 - Tea & Matcha
 - Coffee & Cocoa
 - Cold drinks
 
-### Nuts and Snacks
+### Nuts & Snacks
 - Chips
 - Nuts
 - Snacks
@@ -115,7 +115,7 @@ Specify delivery adress
 - House Electronics
 - Books
 - Adult Goods
-- Wear & Accesories
+- Сlothing & Accesories
 - Sports Goods
 - Car Goods
 - Table Games
